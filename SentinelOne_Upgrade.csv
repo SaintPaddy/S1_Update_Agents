@@ -1,3 +1,3 @@
 "CHECK_VERSION","EXE_x32","EXE_x64","MSI_x32","MSI_x64"
 "21.5.3.235","SentinelInstaller-x86_windows_32bit_v21_5_3_235.exe","SentinelInstaller-x64_windows_64bit_v21_5_3_235.exe","SentinelInstaller_windows_32bit_v21_5_3_235.msi","SentinelInstaller_windows_64bit_v21_5_3_235.msi"
-"22.1.4.10010","SentinelOneInstaller_windows_32bit_v22_1_4_10010.exe","SentinelOneInstaller_windows_64bit_v22_1_4_10010.exe","SentinelOneInstaller_windows_32bit_v22_1_4_10010.exe","SentinelOneInstaller_windows_64bit_v22_1_4_10010.exe"
+"22.1.4.10010","SentinelOneInstaller_windows_32bit_v22_1_4_10010.exe","SentinelOneInstaller_windows_64bit_v22_1_4_10010.exe","",""
