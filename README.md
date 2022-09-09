@@ -85,7 +85,7 @@ Verify in your portal; https://euce1-200.sentinelone.net/sentinels/packages
 "21.5.3.235","SentinelInstaller-x86_windows_32bit_v21_5_3_235.exe","SentinelInstaller-x64_windows_64bit_v21_5_3_235.exe","SentinelInstaller_windows_32bit_v21_5_3_235.msi","SentinelInstaller_windows_64bit_v21_5_3_235.msi"
 "22.1.4.10010","SentinelOneInstaller_windows_32bit_v22_1_4_10010.exe","SentinelOneInstaller_windows_64bit_v22_1_4_10010.exe","",""
 ```
-As far as I understood it, as of v22.1.4.10010 it doesn't make much difference anymore if you push an MSI or an EXE package. But they prefer the EXE. So that's why I use that now.
+As far as I understood it, as of v22.1.4.10010 it doesn't make much difference anymore if you push an MSI or an EXE package. But they prefer the EXE. That is why the PowerShell script will ignore the MSI option in the CSV file as of v22.1.4.10010
 
 # Running the script
 
