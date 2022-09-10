@@ -29,7 +29,7 @@ With the 'LOG' setting you can configure if you want a log file to be written or
 
 **SentinelMgmtUrl**
 
-This is the URL to your management portal.
+This is the URL to your management portal (without trailing slash).
 
 **ApiToken**
 
