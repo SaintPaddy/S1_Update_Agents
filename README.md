@@ -10,7 +10,7 @@ This PowerShell script will connect to your SentinelOne management portal using 
 Then it will query the Online Windows Agents, of the Groups specified in the INI file, if they are notrunning the specified version.
 Then it will send Upgrade commands to all of those Agents.
 
-Personally I start this script ever hour with a 'Scheduled Task'.
+Personally I start this script every hour with a 'Scheduled Task' on one of my servers.
 This makes sure that every devices that comes online, will be checked every hour to see if it's running the version I want it to run. And it will be upgraded if it doesn't. 
 
 
