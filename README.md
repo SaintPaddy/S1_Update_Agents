@@ -4,7 +4,7 @@ Update SentinelOne Agents
 This little script was written for my own convenience. On request I've shared it here. 
 Feel free to do with it as you please.
 
-# Thesummer of 2023
+# The summer of 2023
 Finally, after years of requesting this and people in the community upvoting the feature request, SentinelOne finally released this functionality into their management portal. 
 
 # What?
